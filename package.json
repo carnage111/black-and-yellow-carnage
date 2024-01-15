@@ -1,0 +1,21 @@
+{
+  "name": "black-and-yellow-carnage",
+  "displayName": "Black and Yellow - Carnage",
+  "description": "black and yellow theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black and Yellow - Carnage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black and Yellow - Carnage-color-theme.json"
+      }
+    ]
+  }
+}
