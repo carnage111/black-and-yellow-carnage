@@ -1,6 +1,16 @@
 # Black and Yellow Carnage Theme for Visual Studio Code
 
-![Black and Yellow Carnage Theme](screenshot.png)
+## Story Behind It
+
+This is my first-ever Visual Studio Code theme that I've published, and it holds a special place for me. 
+
+As someone who is passionate about coding and customization, I just wanted a custom theme for myself. Black and yellow, to me, are more than just colors; they represent a dynamic contrast that sparks creativity and focus. These colors have accompanied me in my coding adventures, and I wanted to translate that into a theme that others could enjoy.
+
+While this theme may not be fully furnished, it symbolizes a starting point—a canvas upon which I'll continue to experiment, refine. As I learn and grow, so will "Black and Yellow Carnage." Thank you for joining me on this coding odyssey, and stay tuned for future updates!
+
+Please note that it's not a guarantee that I'll finish it, but it's an open exploration of creativity and learning.
+
+Feel free to customize this text further to better reflect your personal journey and aspirations for the theme.
 
 ## Overview
 
@@ -14,20 +24,11 @@ Black and Yellow Carnage is a visually striking theme for Visual Studio Code tha
 4. Click **Install** to install the theme
 5. Set the theme in your VS Code settings by selecting "Black and Yellow Carnage" in the Color Theme picker (`Ctrl+K, Ctrl+T`)
 
-## Features
-
-- **High Contrast:** The black and yellow color scheme provides high contrast, making your code stand out.
-- **Eye-friendly:** Carefully selected colors to ensure a comfortable coding experience during long coding sessions.
-- **Subtle Splash of Colors:** Enjoy hints of colors for differentiating elements without overwhelming the overall theme.
-
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1]
+![Black and Yellow Carnage Theme](https://github.com/carnage111/black-and-yellow-carnage/blob/main/images/preview.png)
 
-## Contributing
-
-If you find issues or have suggestions, please [open an issue](https://github.com/yourusername/black-and-yellow-carnage-theme/issues) on GitHub. Contributions are welcome!
 
 ## License
 
