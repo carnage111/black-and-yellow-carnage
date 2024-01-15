@@ -3,6 +3,21 @@
   "displayName": "Black and Yellow - Carnage",
   "description": "black and yellow theme",
   "version": "0.0.1",
+  "publisher": "thecarnage",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carnage111/black-and-yellow-carnage"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "blackandyellow",
+    "black and yellow",
+    "thecarnage",
+    "black",
+    "yellow"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
