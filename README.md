@@ -25,7 +25,7 @@ Black and Yellow Carnage is a visually striking theme for Visual Studio Code tha
 5. Set the theme in your VS Code settings by selecting "Black and Yellow Carnage" in the Color Theme picker (`Ctrl+K, Ctrl+T`)
 
 ## Screenshots
-![Black and Yellow Carnage Theme](https://github.com/carnage111/black-and-yellow-carnage/blob/main/images/preview.png)
+![Black and Yellow Carnage Theme](https://raw.githubusercontent.com/carnage111/black-and-yellow-carnage/refs/heads/main/images/preview.png)
 
 ## License
 
